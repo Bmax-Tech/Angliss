@@ -1,0 +1,7 @@
+/laravel/vendor
+/laravel/node_modules
+/laravel/public/storage
+/laravelHomestead.yaml
+/laravelHomestead.json
+/laravel/.env
+/laravel/.idea
